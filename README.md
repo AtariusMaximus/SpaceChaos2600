@@ -1,4 +1,4 @@
-# SpaceChaos2600
+# Space Chaos 2600
 This is the code repository for the Atari 2600 game Space Chaos.
 
 Developmemt Thread:  https://forums.atariage.com/topic/337144-space-chaos-a-new-dpc-game/
